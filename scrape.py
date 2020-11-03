@@ -22,8 +22,9 @@ while datetime.date.today().timetuple().tm_yday < datetime.date(2020,11,3).timet
 
     df.to_sql(name='scrape',con=con , if_exists = 'append')
 
-    print('success: ' + str(n))
-
+    print('success: ' + str(n) + ' at ' + str(datetime.datetime.today()))
+    n = n + 1
+ 
     time.sleep(5*60)
 
 print("the election is over")
