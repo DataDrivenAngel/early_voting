@@ -1,4 +1,4 @@
-# early_voting
+# MoCo Early Voting
 Early voting data for Montgomery County MD in the 2020 election
 
 
