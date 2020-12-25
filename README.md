@@ -3,7 +3,7 @@ Early voting data for Montgomery County MD in the 2020 election
 
 # Results:
 
-[](https://github.com/DataDrivenAngel/early_voting/blob/main/early%20voting%20md.PNG)
+![Image of Chart of results made in PowerBi showing higher wait times earlier in the week of early voting](https://github.com/DataDrivenAngel/early_voting/blob/main/early%20voting%20md.PNG)
 
 # Data
 
