@@ -1,6 +1,10 @@
 # MoCo Early Voting
 Early voting data for Montgomery County MD in the 2020 election
 
+# Results:
+
+[https://github.com/DataDrivenAngel/early_voting/blob/main/early%20voting%20md.PNG]
+
 # Data
 
 Data : https://github.com/DataDrivenAngel/early_voting/blob/main/early_voting.csv
